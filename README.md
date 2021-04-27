@@ -1,4 +1,4 @@
-## img-converter
+## convert-audio
 ##### A lightweight audio conversion tool to convert mp3, wav and aac file.
 
 ### [DEMO](https://suvro404.github.io/convert-audio-playground/)
@@ -28,7 +28,7 @@ async function convertAudio(input) {
 }
 ```
 ##### This convert function will return a converted audio data object which includes audio name, format and blob URL.
-##### This blog URL can be used to download the converted audio.
+##### This blob URL can be used to download the converted audio.
 
 ```
 function downloadAudio(convertedAudioDataObj) {
