@@ -1,0 +1,47 @@
+{
+  "name": "convert-audio",
+  "version": "1.0.0",
+  "description": "A lightweight audio conversion tool to convert mp3, wav and aac file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvro404/convert-audio.git"
+  },
+  "keywords": [
+    "audio",
+    "converter",
+    "mp3",
+    "wav",
+    "aac",
+    "mp3",
+    "to",
+    "wav",
+    "mp3",
+    "to",
+    "aac",
+    "wav",
+    "to",
+    "mp3",
+    "wav",
+    "to",
+    "aac",
+    "aac",
+    "to",
+    "mp3",
+    "aac",
+    "to",
+    "wav",
+    "conversion",
+    "convert"
+  ],
+  "author": "Suvro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suvro404/convert-audio/issues"
+  },
+  "homepage": "https://github.com/suvro404/convert-audio#readme"
+}
